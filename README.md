@@ -1,4 +1,4 @@
-<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="German_Foreign_Office_Appointment_System_Scraper_0"></a>German Foreign Office Appointment System Scraper</h2>
+<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="German_Foreign_Office_Appointment_System_Scraper_0"></a>German Foreign Office Appointment System Bot</h2>
 <p class="has-line-data" data-line-start="3" data-line-end="4">This script monitors the German Foreign Office appointment system webpage every 2 minutes to check for changes in the number of visa categories. If a change is detected, it sends an email notification.</p>
 <h3 class="code-line" data-line-start=5 data-line-end=6 ><a id="Install_Required_Libraries_5"></a>Install Required Libraries</h3>
 <p class="has-line-data" data-line-start="6" data-line-end="7">Make sure you have requests, beautifulsoup4, and smtplib installed. The smtplib library is usally packaged with python but do make sure. You can install them using pip:</p>
